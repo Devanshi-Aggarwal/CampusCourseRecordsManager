@@ -8,11 +8,11 @@ This project is a standard Java SE application. The following are the requiremen
 
 **How to Compile and Run from Command Line:**
 
-To compile the project, navigate to the src folder and run the following command:
+*To compile the project, navigate to the src folder and run the following command:*
 
 javac edu/ccrm/cli/Main.java
 
 
-To run the project, navigate to the src folder and run the following command:
+*To run the project, navigate to the src folder and run the following command:*
 
 java edu.ccrm.cli.Main
